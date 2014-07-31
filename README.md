@@ -14,3 +14,5 @@ This structure is the Life of our products and services.
 Everyone will have his or her own datastream.json, take control of your world now.
 
 Let's Evolve.
+
+All pull requests welcomed. What other data do you want to take control of?
