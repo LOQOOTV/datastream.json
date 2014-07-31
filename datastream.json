@@ -7,6 +7,15 @@
         "queueid": "",
         "username": "",
         "email": "",
+        "socialauth": {
+            "facebook": "",
+            "instagram": "",
+            "google": "",
+            "linkedin": "",
+            "twitter": "",
+            "soundcloud": "",
+            "spotify": ""
+        },
         "firstname": "",
         "lastname": "",
         "isVendor": "",
