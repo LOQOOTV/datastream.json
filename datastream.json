@@ -1,0 +1,101 @@
+{
+    "id": "",
+    "created_at": "",
+    "user": {
+        "datejoined": "",
+        "userid": "",
+        "queueid": "",
+        "username": "",
+        "email": "",
+        "firstname": "",
+        "lastname": "",
+        "isVendor": "",
+        "dob": "",
+        "vendortype": "",
+        "businessname": "",
+        "payouttype": "",
+        "debitcardnumber": "",
+        "expmo": "",
+        "expyear": "",
+        "cvc": "",
+        "bankacctcountry": "",
+        "bankacctnumber": "",
+        "bankacctrouting": "",
+        "phnumber": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "carrier": "",
+        "handheld": "",
+        "scene_count": "",
+        "verified": "",
+        "usergeo": {
+            "x": "",
+            "y": ""
+        }
+    },
+    "tv": {
+        "tvid": "",
+        "androidid": "",
+        "udid": "",
+        "queueid": "",
+        "channels": "",
+        "scene_count": "",
+        "tvgeo": {
+            "x": "",
+            "y": ""
+        }
+    },
+    "scene": {
+        "sceneid": "",
+        "smsmediaurl": "",
+        "smsmediatype": "",
+        "smsid": "",
+        "mediaurl": "",
+        "mediaprovider": "",
+        "mediaproviderstats": {
+            "likes": "",
+            "views": "",
+            "title": "",
+            "thumbnail": "",
+            "duration": "",
+            "profilename": ""
+        },
+        "replay_count": "",
+        "more_count": "",
+        "msgbdy": "",
+        "channels": "",
+        "users": "",
+        "value": ""
+    },
+    "channel": {
+        "channelid": "",
+        "channels": "",
+        "queueid": "",
+        "scene_count": ""
+    },
+    "comment": {
+        "commentid": "",
+        "msg": ""
+    },
+    "locale": {
+        "localeid": "",
+        "phnumber": "",
+        "city": "",
+        "state": "",
+        "region": ""
+    },
+    "remote": {
+        "remoteid": "",
+        "androidid": "",
+        "udid": "",
+        "remotetype": "",
+        "carrier": "",
+        "remotegeo": {
+            "x": "",
+            "y": ""
+        }
+    }
+}
