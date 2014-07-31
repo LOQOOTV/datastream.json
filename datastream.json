@@ -44,8 +44,8 @@
         "scene_count": "",
         "verified": "",
         "usergeo": {
-            "x": "",
-            "y": ""
+            "lat": "",
+            "long": ""
         }
     },
     "tv": {
@@ -56,8 +56,8 @@
         "channels": "",
         "scene_count": "",
         "tvgeo": {
-            "x": "",
-            "y": ""
+            "lat": "",
+            "long": ""
         }
     },
     "scene": {
@@ -106,8 +106,8 @@
         "remotetype": "",
         "carrier": "",
         "remotegeo": {
-            "x": "",
-            "y": ""
+            "lat": "",
+            "long": ""
         }
     }
 }
