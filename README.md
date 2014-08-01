@@ -1,4 +1,4 @@
-loqootv/datastream.json
+datastream.json
 ===============
 
 Our atom.
