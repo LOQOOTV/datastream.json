@@ -94,6 +94,7 @@
     },
     "locale": {
         "localeid": "",
+        "ugid": "",
         "phnumber": "",
         "city": "",
         "state": "",
