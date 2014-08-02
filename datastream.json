@@ -56,6 +56,7 @@
         "localeid": "",
         "device": [
             {
+                "ble": "",
                 "wifi": "",
                 "cellular": "",
                 "ethernet": "",
@@ -64,7 +65,8 @@
         ],
         "channels": [
             {
-                "channelid": ""
+                "channelid": "",
+                "channelname": ""
             }
         ],
         "scene_count": "",
