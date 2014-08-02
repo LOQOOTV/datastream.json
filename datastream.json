@@ -101,6 +101,7 @@
         "locale": {
             "localeid": "",
             "major_city": "",
+            "localename": "",
             "phnumbers": [
                 {
                     "phnumber": "",
