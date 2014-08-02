@@ -54,6 +54,14 @@
         "udid": "",
         "queueid": "",
         "localeid": "",
+        "device": [
+            {
+                "wifi": "",
+                "cellular": "",
+                "ethernet": "",
+                "isFast": ""
+            }
+        ],
         "channels": [
             {
                 "channelid": ""
@@ -117,6 +125,14 @@
             "udid": "",
             "remotetype": "",
             "carrier": "",
+            "device": [
+                {
+                    "ble": "",
+                    "wifi": "",
+                    "cellular": "",
+                    "isFast": ""
+                }
+            ],
             "remotegeo": {
                 "long": "",
                 "lat": ""
