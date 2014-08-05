@@ -78,6 +78,7 @@
     },
     "scene": {
         "sceneid": "",
+	"scenetype": "",
         "smsmediaurl": "",
         "smsmediatype": "",
         "smsid": "",
