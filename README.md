@@ -69,24 +69,36 @@ We are Technology.
             "lat": ""
         }
     },
+     {
     "tv": {
         "tvid": "",
         "androidid": "",
+        "macaddress": "",
         "udid": "",
         "queueid": "",
         "localeid": "",
+        "device": [
+                {
+                        "ble": "",
+                        "wifi": "",
+                        "cellular": "",
+                        "ethernet": "",
+                        "isFast": ""
+                }
+                ],
         "channels": [
-            {
-                "channelid": ""
-            }
+                {"channelid": "",
+                 "channelname": ""
+                }
         ],
         "scene_count": "",
         "tvgeo": {
             "lat": "",
             "long": ""
-        },
+                },
         "containerid": ""
-    },
+     }
+},
     "scene": {
         "sceneid": "",
         "smsmediaurl": "",
