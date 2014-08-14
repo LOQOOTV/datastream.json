@@ -1,6 +1,6 @@
 
 {
-  "datatypes": { 
+  "streamtypes": { 
      "scene",
      "subscription",
      "purchase",
